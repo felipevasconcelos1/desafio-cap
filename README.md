@@ -1,4 +1,4 @@
-# desafio-cap
+# Desafio-cap
 
 As questões do desafio foram desenvolvidas em Java.
 1. Para a primeira questão, a entrada deve ser inserida conforme instruído no documento (n = 6), para determinar o número de degraus da escada de asteriscos.
